@@ -27,6 +27,8 @@ let package = Package(
     dependencies: [
       .package(url: "https://github.com/vadimeisenbergibm/Todo-Backend-DataLayer.git",
                  .upToNextMajor(from: "0.0.0")),
+      .package(url: "https://github.com/IBM-Swift/Kitura-CouchDB.git",
+                 .upToNextMajor(from: "2.0.0")),
     ],
     targets: [
         .target(
