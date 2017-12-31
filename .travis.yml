@@ -1,4 +1,5 @@
-# Kitura runs on OS X and Linux (Ubuntu).
+# Travis CI build file
+
 # See the following URLs for further details on Travis CI
 # https://docs.travis-ci.com/user/customizing-the-build/
 # https://docs.travis-ci.com/user/docker/
